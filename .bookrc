@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "Heart of Darkness",
-  "type": "text"
+  "type": "text",
+  "book_id": 492
 }
